@@ -9,7 +9,7 @@
   
   inputs.src-simpleAST-1_1_2.flake = false;
   inputs.src-simpleAST-1_1_2.owner = "lguzzon-NIM";
-  inputs.src-simpleAST-1_1_2.ref   = "refs/tags/1.1.2";
+  inputs.src-simpleAST-1_1_2.ref   = "1_1_2";
   inputs.src-simpleAST-1_1_2.repo  = "simpleAST";
   inputs.src-simpleAST-1_1_2.type  = "github";
   
