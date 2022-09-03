@@ -1,0 +1,17 @@
+*
+!**\.gitattributes
+!**\.gitignore
+!**\.md
+
+!/\.editorconfig
+!/\.gitpod.Dockerfile
+!/\.gitpod.yml
+!/\.travis\.yml
+!/config\.nims
+!/LICENSE
+!/scripts/
+!/tests/
+
+!/simpleAST\.nim
+!/simpleAST\.nimble
+!/simpleAST/
